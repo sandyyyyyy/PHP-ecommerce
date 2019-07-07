@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://home.html/index.html</loc>
+    <lastmod>2017-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://home.html/images/bookrelease-crop-u705.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://home.html/images/reading-crop-u812.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://home.html/images/wintersale.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://home.html/signup.html</loc>
+    <lastmod>2017-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://home.html/login.html</loc>
+    <lastmod>2017-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://home.html/contact.html</loc>
+    <lastmod>2017-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://home.html/assets/home.html</loc>
+    <lastmod>2017-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
